@@ -62,16 +62,31 @@ nav .menu {
 }
 
 nav .menu .menu-button {
-    color: #0ba2c0;
+    color: white;
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: #25D366;
     padding: 12px 24px;
     border-radius: 56px;
     transition: all .25s ease;
 }
 
 nav .menu .menu-button:hover {
-    background-color: #0ba2c0;
+    background-color: #14883f;
+    color: white;
+}
+
+
+nav .menu .menu-buttonG {
+    color: white;
+    text-decoration: none;
+    background-color: #4285F4;
+    padding: 12px 24px;
+    border-radius: 56px;
+    transition: all .25s ease;
+}
+
+nav .menu .menu-buttonG:hover {
+    background-color: #275091;
     color: white;
 }
 
